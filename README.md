@@ -1,6 +1,6 @@
 # C Kodlarını Derleme ve Çalıştırma
 
-Bu proje, C dilinde yazılmış kodları derlemek ve çalıştırmak için aşağıdaki adımları takip eder:
+Bu Repo, T.C. Sanayi ve Teknoloji Bakanlığı | Republic Of Türkiye Ministry of Industry and Technology tarafından düzenlenen Milli Teknoloji Akademisi'nin Yapay Zeka Temel Eğitim Programı'nda C dilinde yazılmış kodlarını içermektedir
 
 ## Adım 1: GCC C Compiler'ını İndirin
 GCC C Compiler'ı, kodlarımızı derlemek için kullanacağımız araçtır. Bu compiler'i [SourceForge](https://sourceforge.net/projects/mingw/) sitesinden indirebilirsiniz.
