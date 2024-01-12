@@ -6,7 +6,7 @@ void swap(int *xp, int *yp)
    *xp = *yp;
    *yp = temp;
 }
-
+// O(n^2) ~(n^2/2)
 void selectionSort(int arr[], int n)
 {
    int i, j, min_idx;
