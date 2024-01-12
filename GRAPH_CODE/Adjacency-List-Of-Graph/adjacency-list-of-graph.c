@@ -26,12 +26,19 @@ int main(void)
 
     // Graf'a kenar ekleme
     addEdge(0, 1);
+    addEdge(1, 0);
     addEdge(0, 4);
+    addEdge(4, 0);
     addEdge(1, 2);
+    addEdge(2, 1);
     addEdge(1, 3);
+    addEdge(3, 1);
     addEdge(1, 4);
+    addEdge(4, 1);
     addEdge(2, 3);
+    addEdge(3, 2);
     addEdge(3, 4);
+    addEdge(4, 3);
 
     // addEdge fonksiyonunun test edilmesi
     
